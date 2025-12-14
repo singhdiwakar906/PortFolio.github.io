@@ -61,4 +61,4 @@ portfolio.web/
 
 ## 📄 License
 
-© 2024 Diwakar Singh. All rights reserved.
+© 2026 Diwakar Singh. All rights reserved.
